@@ -51,9 +51,6 @@ function Get-StoppedAutoStartService
     The list of computers is piped to the cmdlet and all computers are processed as jobs.
 
     Get-Content -Path C:\Temp\ServerList.txt | Get-StoppedAutoStartService -AsJob
-
-    .NOTES
-    General notes
     #>
 
     [Alias('gsas')]
