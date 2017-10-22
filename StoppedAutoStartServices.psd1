@@ -98,7 +98,7 @@
             # Tags = @()
 
             # A URL to the license for this module.
-            # LicenseUri = ''
+            LicenseUri = 'https://github.com/fullenw1/StoppedAutoStartServices/blob/master/LICENSE'
 
             # A URL to the main website for this project.
             ProjectUri = 'https://github.com/fullenw1/StoppedAutoStartServices'
